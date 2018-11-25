@@ -4,7 +4,8 @@ Tris cetri pieci
 Linija tris
 Pirma mape
 Otra mape
-Funkcija(int a, double b){
+Funkcija(int a, double b, string c){
 	dara kaut ko;
 	dara vairak;
+	neko nedara;
 }
